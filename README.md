@@ -1,6 +1,8 @@
 # Samsung-Data-Analysis
 Getting And Cleaning Data Course Project
 
+Make sure the UCA HAR Dataset file is in your working directory.
+
 1. Merge test data in test under dataset.
 2. Merge training data under dataset1.
 3. Merge dataset and dataset1 into one data frame using rbind and store it into mergedData.
