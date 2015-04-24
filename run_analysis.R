@@ -61,4 +61,4 @@ arrange(User, Activity) %>%
 select(User, ActivityLabel, AverageMean, AverageSD)
 
 rm(dataset, dataset1, mergedData)
-print("Data is stored in variable tidyData")
+print(tidyData)
